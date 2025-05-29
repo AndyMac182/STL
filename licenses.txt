@@ -1,14 +1,14 @@
 {
-  "ABC123-DEF456-GHI789": {
+  "ST-008L-BWOC-YL46": {
     "status": "active",
     "max_activations": 3,
-    "activations": 1,
-    "note": "Demo license"
+    "activations": 0,
+    "note": "User Testing license 1"
   },
-  "XYZ987-UVW654-RST321": {
-    "status": "revoked",
-    "max_activations": 1,
-    "activations": 1,
-    "note": "Revoked due to sharing"
+  "ST-00G3-HES2-ZE2B": {
+    "status": "active",
+    "max_activations": 3,
+    "activations": 0,
+    "note": "User Testing license 1"
   }
 }
